@@ -1,7 +1,7 @@
 Privacy Policy for SpectraMatch
 Effective date: 10/31/2025
 
-SpectraMatch (“the App”) is developed and maintained by John Anselmo (“the Developer”).
+SpectraMatch (“the App”) is developed and maintained by SpectraMatch.
 This Privacy Policy explains how the App handles information and user data.
 
 1. Information Collection and Use
